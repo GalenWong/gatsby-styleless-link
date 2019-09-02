@@ -6,11 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "url": "https://github.com/GalenWong/gatsby-styleless-link",
+    "type": "git"
+  },
   "keywords": [
     "gatsby-styleless-link"
   ],
   "author": "Galen Wong",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "gatsby": "^2.15.2"
   }
