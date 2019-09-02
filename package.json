@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-styleless-link",
+  "version": "0.0.1",
+  "description": "A wrapper around Gatsby's Link component to make it styleless.",
+  "main": "src/link.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby-styleless-link"
+  ],
+  "author": "Galen Wong",
+  "license": "ISC",
+  "devDependencies": {
+    "gatsby": "^2.15.2"
+  }
+}
