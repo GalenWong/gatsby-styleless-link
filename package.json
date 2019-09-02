@@ -1,6 +1,6 @@
 {
   "name": "gatsby-styleless-link",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A wrapper around Gatsby's Link component to make it styleless.",
   "main": "src/link.js",
   "scripts": {
